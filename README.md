@@ -1,5 +1,5 @@
-# Science
-## 南京大学 科学启蒙
+# [Science](https://fintechnju.github.io/Science)
+## [南京大学 科学启蒙](https://fintechnju.github.io/Science)
 * [第一次课](第01次课.md)
 * [第二次课](第02次课.md)
 * [第三次课](第03次课.md)
