@@ -12,5 +12,5 @@
 * [第十次课](第10次课.md)
 * [第十一次课](第11次课.md)
 
-本仓库是GitHub
-私有仓库，加入维护请<a href="fintech_nju@outlook.com" >联系作者</a>
+本仓库是GitHub私有仓库，加入维护请联系作者：
+* fintech_nju@outlook.com
